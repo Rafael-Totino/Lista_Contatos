@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/Rafael/AndroidStudioProjects/ListaContatos2/app/src/main/res/layout/activity_main.xml" value="0.3307291666666667" />
         <entry key="..\:/Users/Rafael/AndroidStudioProjects/ListaContatos2/app/src/main/res/layout/contact_list_item.xml" value="0.75" />
+        <entry key="..\:/Users/Rafael/AndroidStudioProjects/ListaContatos2/app/src/main/res/layout/fragment_contact_item.xml" value="0.8960155490767736" />
+        <entry key="..\:/Users/Rafael/AndroidStudioProjects/ListaContatos2/app/src/main/res/layout/fragment_contact_list.xml" value="0.34479166666666666" />
       </map>
     </option>
   </component>
